@@ -17,9 +17,10 @@ Here states of the system are defined by joint angles.
 2. Following are GiFs for the results from planners.
 
 1. RRT
+![image](./Results/RRT_GIF.gif)
 
-2. RRT-Connect
+3. RRT-Connect
 
-3. RRT*
+4. RRT*
 
-4. PRM
+5. PRM
