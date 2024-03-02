@@ -14,13 +14,17 @@ Here states of the system are defined by joint angles.
 
 # Results
 1. The planner is tested on 2 different maps. A comprehensive planner comparison is underway and I will update is shortly.
-2. Following are GiFs for the results from planners.
 
-1. RRT
+Following are GiFs for the results from planners.
+
+1. RRT 
 ![image](./Results/RRT_GIF.gif)
 
-3. RRT-Connect
+2. RRT-Connect
+![image](./Results/RRTCONNECT_GIF.gif)
 
-4. RRT*
+3. RRT*
+![image](./Results/RRT_GIF.gif)
 
-5. PRM
+4. PRM
+![image](./Results/PRM.gif)
